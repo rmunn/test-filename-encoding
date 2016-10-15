@@ -1,0 +1,9 @@
+Here's a nasty one: it has 𝒜𝔹𝒞 in it, which is:
+
+U+1D49C MATHEMATICAL SCRIPT CAPITAL A
+U+1D539 MATHEMATICAL DOUBLE-STRUCK CAPITAL B
+U+1D49E MATHEMATICAL SCRIPT CAPITAL C
+
+Also, trying to select these characters in the Windows 10 file explorer
+sometimes left me with *incorrect* UTF-16, as it appears it managed
+to select only one character from a surrogate pair at times. Tsk, tsk, Microsoft!
