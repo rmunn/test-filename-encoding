@@ -1,1 +1,3 @@
 Non-ASCII filename created on Windows with ï (lowercase i with umlaut) in filename
+
+Now, a really *nasty* filename would (try to) include non-BMP characters, like 𝒜𝔹𝒞...
